@@ -1,6 +1,6 @@
 # Risk Assessment
-## Name: ANANDHAMOORTHY.K
-## Reg No: 212222100004
+## Name: PRITHVIRAJ V
+## Reg No: 212222100038
 
 ## Aim
 To perform an asset-oriented risk assessment of cloud storage assets including:
